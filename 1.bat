@@ -1,0 +1,3 @@
+@ECHO OFF
+DIR %1\*.%2
+pause
